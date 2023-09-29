@@ -1,0 +1,30 @@
+.paragraph1{
+    color: cornflowerblue;
+}
+.paragraph2{
+    color: crimson;
+}
+.paragraph3{
+    color: coral;
+}
+.class{
+    color: blue;
+}
+.paragraph4{
+    color: darkorchid;
+}
+.mymainCity{
+    font-weight: bold;
+}
+.mymainParis{
+    color: greenyellow;
+}
+#kisaasi{
+    background-color: darkslategray;
+    color: cyan;
+}
+#kisaasi{
+    background-color: magenta;
+    color: darkblue;
+    border:40px; text-align: center;
+}

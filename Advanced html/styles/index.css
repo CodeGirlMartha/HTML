@@ -1,0 +1,21 @@
+.about{
+    background-color: palevioletred;
+}
+.mygallary{
+    background-color: lightgray;
+}
+.tables{
+    background-color: lightblue;
+}
+
+h1{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+body{
+    text-align: center;
+    margin-top: 15%;
+}
